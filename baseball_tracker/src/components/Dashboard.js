@@ -53,6 +53,7 @@ class Dashboard extends React.Component {
         }))
         // If a hit occures the scores for Balls and Strikes should be set to Zero
     }
+
     render() {
         return (
             <div>
